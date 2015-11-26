@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="title" qualifier="none"></dcvalue>
+  <dcvalue element="contributor" qualifier="author"></dcvalue>
+  <dcvalue element="contributor" qualifier="other"></dcvalue>
+  <dcvalue element="publisher" qualifier="none"></dcvalue>
+  <dcvalue element="description" qualifier="none"></dcvalue>
+  <dcvalue element="description" qualifier="provenance"></dcvalue>
+  <dcvalue element="description" qualifier="uri"></dcvalue>
+  <dcvalue element="language" qualifier="iso"></dcvalue>
+  <dcvalue element="source" qualifier="uri"></dcvalue>
+  <dcvalue element="subject" qualifier="none"></dcvalue>
+
+  <dcvalue element="date" qualifier="issued"></dcvalue>
+  <dcvalue element="type" qualifier="none"></dcvalue>
+
+  <dcvalue element="coverage" qualifier="placeName"></dcvalue>
+
+  <dcvalue element="format" qualifier="none"></dcvalue>
+
+  <dcvalue element="rights" qualifier="none"></dcvalue>
+  <dcvalue element="rights" qualifier="label"></dcvalue>
+  <dcvalue element="rights" qualifier="uri"></dcvalue>
+
+  <dcvalue element="date" qualifier="accessioned"></dcvalue>
+  <dcvalue element="date" qualifier="available"></dcvalue>
+  <dcvalue element="identifier" qualifier="none"></dcvalue>
+  <dcvalue element="identifier" qualifier="uri"></dcvalue>
+  <dcvalue element="rights" qualifier="label"></dcvalue>
+  <dcvalue element="rights" qualifier="none"></dcvalue>
+</dublin_core>
